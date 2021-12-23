@@ -1,0 +1,10 @@
+requests
+tqdm
+
+# learning
+jupyter
+kaggle
+huggingface_hub
+
+# dl
+torch==
