@@ -1,5 +1,10 @@
 requests
 tqdm
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
 
 # learning
 jupyter
