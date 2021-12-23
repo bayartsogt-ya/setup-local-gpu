@@ -10,3 +10,20 @@ pip install -r requirements.txt
 ```
 
 
+## NVTOP
+
+Deps:
+```
+sudo apt install cmake libncurses5-dev libncursesw5-dev git
+```
+
+Nvtop 
+```
+git clone https://github.com/Syllo/nvtop.git
+mkdir -p nvtop/build && cd nvtop/build
+cmake ..
+make
+
+# Install globally on the system
+sudo make install
+```
